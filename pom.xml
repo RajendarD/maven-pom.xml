@@ -29,7 +29,7 @@
         <repository>
             <id>deployment</id>
             <name>Internal Release</name>
-            <url>http://192.168.0.108:8081/repository/Test1_Release/</url>
+            <url>http://192.168.0.121:8081/repository/Test1_Release/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
