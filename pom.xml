@@ -34,7 +34,7 @@
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.0.108:8081/repository/Test1_Snap/</url>
+            <url>http://192.168.0.121:8081/repository/Test1_Snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
